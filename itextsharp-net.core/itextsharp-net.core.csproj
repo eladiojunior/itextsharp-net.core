@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <RootNamespace>itextsharp_net.core</RootNamespace>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="iTextSharp.LGPLv2.Core" Version="1.6.7" />
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="5.5.0" />
+    </ItemGroup>
+
+
+</Project>
